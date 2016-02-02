@@ -1,0 +1,634 @@
+octave:2> knn
+Knn classifier for BreastCancer DATA for K=1 random subsampling 
+confusion_matrix =
+
+   172    50
+    85    43
+
+confusion_matrix =
+
+   163    65
+    70    52
+
+confusion_matrix =
+
+   167    59
+    76    48
+
+confusion_matrix =
+
+   158    73
+    71    48
+
+confusion_matrix =
+
+   163    75
+    63    49
+
+confusion_matrix =
+
+   157    77
+    65    51
+
+confusion_matrix =
+
+   175    50
+    74    51
+
+confusion_matrix =
+
+   152    68
+    79    51
+
+confusion_matrix =
+
+   158    66
+    76    50
+
+confusion_matrix =
+
+   159    70
+    62    59
+
+Mean for K=1 is   60.742857 
+Standard Deviation for K=1 is   1.915209 
+Knn classifier for BreastCancer DATA for K=3 random subsampling 
+confusion_matrix =
+
+   157    85
+    60    48
+
+confusion_matrix =
+
+   170    58
+    79    43
+
+confusion_matrix =
+
+   172    69
+    70    39
+
+confusion_matrix =
+
+   166    67
+    77    40
+
+confusion_matrix =
+
+   163    65
+    71    51
+
+confusion_matrix =
+
+   171    54
+    92    33
+
+confusion_matrix =
+
+   175    44
+    90    41
+
+confusion_matrix =
+
+   175    46
+    93    36
+
+confusion_matrix =
+
+   168    61
+    87    34
+
+confusion_matrix =
+
+   169    58
+    79    44
+
+Mean for K=3 is   59.857143 
+Standard Deviation for K=3 is   1.381773 
+Knn classifier for BreastCancer DATA for K=1 five folds cross validation 
+confusion_matrix =
+
+   63   27
+   25   24
+
+confusion_matrix =
+
+   73   20
+   28   19
+
+confusion_matrix =
+
+   65   25
+   31   18
+
+confusion_matrix =
+
+   67   23
+   29   19
+
+confusion_matrix =
+
+   65   26
+   27   19
+
+confusion_matrix =
+
+   56   32
+   27   24
+
+confusion_matrix =
+
+   69   19
+   33   19
+
+confusion_matrix =
+
+   66   32
+   22   19
+
+confusion_matrix =
+
+   64   31
+   31   12
+
+confusion_matrix =
+
+   58   25
+   34   20
+
+confusion_matrix =
+
+   61   25
+   25   28
+
+confusion_matrix =
+
+   62   30
+   28   20
+
+confusion_matrix =
+
+   65   32
+   26   16
+
+confusion_matrix =
+
+   61   31
+   24   22
+
+confusion_matrix =
+
+   64   22
+   24   27
+
+confusion_matrix =
+
+   70   20
+   25   24
+
+confusion_matrix =
+
+   57   38
+   26   19
+
+confusion_matrix =
+
+   67   18
+   35   19
+
+confusion_matrix =
+
+   77   18
+   29   14
+
+confusion_matrix =
+
+   67   24
+   20   26
+
+confusion_matrix =
+
+   66   25
+   26   22
+
+confusion_matrix =
+
+   70   23
+   25   22
+
+confusion_matrix =
+
+   58   28
+   32   21
+
+confusion_matrix =
+
+   64   30
+   25   19
+
+confusion_matrix =
+
+   58   34
+   24   21
+
+confusion_matrix =
+
+   61   27
+   24   27
+
+confusion_matrix =
+
+   72   25
+   23   20
+
+confusion_matrix =
+
+   70   20
+   29   20
+
+confusion_matrix =
+
+   64   21
+   37   16
+
+confusion_matrix =
+
+   62   31
+   17   27
+
+confusion_matrix =
+
+   70   25
+   27   17
+
+confusion_matrix =
+
+   61   28
+   31   20
+
+confusion_matrix =
+
+   74   15
+   24   26
+
+confusion_matrix =
+
+   67   31
+   26   14
+
+confusion_matrix =
+
+   65   18
+   27   27
+
+confusion_matrix =
+
+   64   27
+   31   17
+
+confusion_matrix =
+
+   69   24
+   31   16
+
+confusion_matrix =
+
+   62   28
+   23   26
+
+confusion_matrix =
+
+   58   30
+   32   18
+
+confusion_matrix =
+
+   63   29
+   25   20
+
+confusion_matrix =
+
+   66   27
+   28   18
+
+confusion_matrix =
+
+   65   27
+   19   29
+
+confusion_matrix =
+
+   74   17
+   33   15
+
+confusion_matrix =
+
+   64   23
+   31   20
+
+confusion_matrix =
+
+   64   25
+   30   18
+
+confusion_matrix =
+
+   69   20
+   25   25
+
+confusion_matrix =
+
+   57   36
+   24   23
+
+confusion_matrix =
+
+   64   26
+   31   18
+
+confusion_matrix =
+
+   57   30
+   25   26
+
+confusion_matrix =
+
+   64   31
+   21   21
+
+mean_matrix =
+
+ Columns 1 through 8:
+
+   62.330   58.714   61.488   63.521   60.733   63.341   63.648   59.591
+
+ Columns 9 and 10:
+
+   62.465   61.190
+
+Grand Mean for 5 folds for K=1 is 61.702201
+Standard Deviation for 5 folds for K=1  1.679720 
+Knn classifier for BreastCancer DATA for K=3 five folds cross validation 
+confusion_matrix =
+
+   64   27
+   34   14
+
+confusion_matrix =
+
+   67   27
+   28   18
+
+confusion_matrix =
+
+   70   18
+   35   16
+
+confusion_matrix =
+
+   66   24
+   29   19
+
+confusion_matrix =
+
+   57   34
+   32   14
+
+confusion_matrix =
+
+   67   32
+   24   16
+
+confusion_matrix =
+
+   66   23
+   34   17
+
+confusion_matrix =
+
+   68   19
+   34   18
+
+confusion_matrix =
+
+   72   16
+   29   21
+
+confusion_matrix =
+
+   69   22
+   29   17
+
+confusion_matrix =
+
+   74   17
+   36   12
+
+confusion_matrix =
+
+   75   26
+   29   10
+
+confusion_matrix =
+
+   63   29
+   36   11
+
+confusion_matrix =
+
+   57   25
+   32   24
+
+confusion_matrix =
+
+   65   24
+   29   19
+
+confusion_matrix =
+
+   66   21
+   35   17
+
+confusion_matrix =
+
+   67   18
+   42   13
+
+confusion_matrix =
+
+   72   30
+   22   15
+
+confusion_matrix =
+
+   72   22
+   28   16
+
+confusion_matrix =
+
+   66   17
+   34   20
+
+confusion_matrix =
+
+   65   23
+   33   18
+
+confusion_matrix =
+
+   76   19
+   28   17
+
+confusion_matrix =
+
+   59   29
+   28   23
+
+confusion_matrix =
+
+   72   24
+   30   12
+
+confusion_matrix =
+
+   60   27
+   32   18
+
+confusion_matrix =
+
+   74   15
+   34   16
+
+confusion_matrix =
+
+   56   33
+   32   19
+
+confusion_matrix =
+
+   74   23
+   27   15
+
+confusion_matrix =
+
+   67   21
+   32   18
+
+confusion_matrix =
+
+   64   27
+   28   18
+
+confusion_matrix =
+
+   61   32
+   29   17
+
+confusion_matrix =
+
+   72   20
+   29   19
+
+confusion_matrix =
+
+   67   29
+   25   18
+
+confusion_matrix =
+
+   67   17
+   41   13
+
+confusion_matrix =
+
+   70   20
+   32   15
+
+confusion_matrix =
+
+   78   17
+   31   13
+
+confusion_matrix =
+
+   62   30
+   28   20
+
+confusion_matrix =
+
+   74   15
+   36   14
+
+confusion_matrix =
+
+   62   22
+   32   22
+
+confusion_matrix =
+
+   56   38
+   22   21
+
+confusion_matrix =
+
+   61   29
+   33   16
+
+confusion_matrix =
+
+   72   20
+   33   15
+
+confusion_matrix =
+
+   73   16
+   31   19
+
+confusion_matrix =
+
+   69   19
+   36   14
+
+confusion_matrix =
+
+   73   20
+   30   14
+
+confusion_matrix =
+
+   73   12
+   41   13
+
+confusion_matrix =
+
+   66   25
+   31   18
+
+confusion_matrix =
+
+   67   29
+   26   17
+
+confusion_matrix =
+
+   71   18
+   28   21
+
+confusion_matrix =
+
+   76   16
+   35   10
+
+mean_matrix =
+
+ Columns 1 through 8:
+
+   58.424   62.207   59.166   61.197   60.587   60.759   60.456   60.884
+
+ Columns 9 and 10:
+
+   61.475   62.349
+
+Grand Mean for 5 folds for K=3 is 60.750503
+Standard Deviation for 5 folds for K=3   1.222605 
+octave:3> 
